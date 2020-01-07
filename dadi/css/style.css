@@ -1,0 +1,12 @@
+.giocatore {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+#numero {
+  width: 10px;
+  margin-left: 20px;
+}
+#player {
+  margin-right: 20px;
+}
